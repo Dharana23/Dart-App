@@ -2,4 +2,3 @@ streamlit
 numpy
 opencv-python-headless
 pywavelets
-./Smartdarts_Helping_Functions
