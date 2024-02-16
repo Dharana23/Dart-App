@@ -96,7 +96,7 @@ def main():
         st.write("Total Dart Score:", total_dart_score)
 
         # Display the result image
-        st.image(result_img, caption='Result Image')
+        st.image(foreground_image_cropped, caption='Result Image')
 
         # Delete temporary files
         os.unlink(bg_filename)
